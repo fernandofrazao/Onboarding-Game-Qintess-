@@ -1,8 +1,5 @@
-# Qintess Onboarding Gam
-
+# Qintess Onboarding Game
 **Tive o enorme prazer em desenvolver game exclusivo para Onboarding dos novos colaboradores da Qintess pelo projeto Anansi Collective.**
-
-![qintessgame](C:\Users\re041477\Downloads\qintessgame.PNG)
 
 O projeto Anansi Collective pertence ao Ecossistema da Qintess e tem como foco a criação de uma cooperativa para construção de narrativas diferenciadas para melhorar a experiência dos clientes e usuários através de jogos, animação e tecnologias XR. 
 
@@ -19,5 +16,9 @@ Te convido para jogar e conhecer mais sobre o Anansi Collective.
  **Anansi Collective:** https://qintess.com/anansi-br
 
 **Onboarding Game:** https://qintess.com/qintess-onboarding-game/ 
-
-Gostaria de compartilhar os créditos com ex- colaborador **Lucas Emiliano (**https://www.linkedin.com/in/lucas-emiliano-275036135/) que contribuiu com a ideia.
+![Tela inicial](https://user-images.githubusercontent.com/45408379/224140145-1f45a2e9-1969-48e2-a217-607fc02a8283.PNG)
+![instruções](https://user-images.githubusercontent.com/45408379/224140459-664c7655-da44-4010-90c7-01c71f35ac2a.PNG)
+![Sobre](https://user-images.githubusercontent.com/45408379/224138447-cfee850c-076f-4d7d-80a7-614b3ce7dd35.png)
+![Tela-Creditos](https://user-images.githubusercontent.com/45408379/224138316-8a0b421c-fbac-41a9-9cbe-bd991b786995.png)
+![play](https://user-images.githubusercontent.com/45408379/224141340-a35c078c-d1a1-4dab-a579-5e455931f704.PNG)
+![record](https://user-images.githubusercontent.com/45408379/224138599-711c520c-86d0-44a2-90a6-a4b23bb2d935.png)
